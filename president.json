@@ -1,0 +1,85 @@
+{
+  "presidents":[
+      {
+        "id": 1,
+        "name": "Nnamdi Azikiwe",
+        "start_date": "October 1, 1963",
+        "end_date": "January 16, 1966",
+        "state_of_origin": "Anambra",
+        "geopolitical_zone": "South-East",
+        "local_language": "Igbo",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Johnson Aguiyi-Ironsi",
+        "start_date": "January 16, 1966",
+        "end_date": "July 29, 1966",
+        "state_of_origin": "Abia",
+        "geopolitical_zone": "South-East",
+        "local_language": "Igbo",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "Yakubu Gowon",
+        "start_date": "August 1, 1966",
+        "end_date": "July 29, 1975",
+        "state_of_origin": "Plateau",
+        "geopolitical_zone": "North-Central",
+        "local_language": "Hausa, Berom",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "name": "Murtala Ramat Mohammed",
+        "start_date": "July 29, 1975",
+        "end_date": "February 13, 1976",
+        "state_of_origin": "Kano",
+        "geopolitical_zone": "North-West",
+        "local_language": "Hausa",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "name": "Olusegun Obasanjo",
+        "start_date": "May 29, 1999",
+        "end_date": "May 29, 2007",
+        "state_of_origin": "Ogun",
+        "geopolitical_zone": "South-West",
+        "local_language": "Yoruba",
+        "image": ""
+      },
+      {
+        "id": 6,
+        "name": "Umaru Musa Yar'Adua",
+        "start_date": "May 29, 2007",
+        "end_date": "May 5, 2010",
+        "state_of_origin": "Katsina",
+        "geopolitical_zone": "North-West",
+        "local_language": "Hausa, Fulfude",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "name": "Goodluck Jonathan",
+        "start_date": "May 6, 2010",
+        "end_date": "May 29, 2015",
+        "state_of_origin": "Bayelsa",
+        "geopolitical_zone": "South-South",
+        "local_language": "Ijaw, Ogbia",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "name": "Muhammadu Buhari",
+        "start_date": "May 29, 2015",
+        "end_date": "Present",
+        "state_of_origin": "Katsina",
+        "geopolitical_zone": "North-West",
+        "local_language": "Hausa, Fulfulde",
+        "image": ""
+      }
+    ]
+  }
+  

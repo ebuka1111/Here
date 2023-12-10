@@ -1,0 +1,100 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Manchester United",
+      "city": "Manchester",
+      "stadium": "Old Trafford",
+      "manager": "Ole Gunnar Solskjaer",
+      "song": "Glory Glory Man United,\nGlory Glory Man United,\nGlory Glory Man United,\nAs the Reds go marching on, on, on!"
+    },
+    {
+      "id": 2,
+      "name": "Manchester City",
+      "city": "Manchester",
+      "stadium": "Etihad Stadium",
+      "manager": "Pep Guardiola",
+      "song": "Blue Moon, you saw me standing alone,\nWithout a dream in my heart,\nWithout a love of my own."
+    },
+    {
+      "id": 3,
+      "name": "Liverpool",
+      "city": "Liverpool",
+      "stadium": "Anfield",
+      "manager": "Jurgen Klopp",
+      "song": "You'll Never Walk Alone,\n Walk on, walk on,\n With hope in your heart,\nAnd you'll never walk alone."
+    },
+    {
+      "id": 4,
+      "name": "Chelsea",
+      "city": "London",
+      "stadium": "Stamford Bridge",
+      "manager": "Thomas Tuchel",
+      "song": "Blue is the colour, football is the game,\nWe're all together, and winning is our aim,\nSo cheer us on through the sun and rain,\nCause Chelsea, Chelsea is our name."
+    },
+    {
+      "id": 5,
+      "name": "Arsenal",
+      "city": "London",
+      "stadium": "Emirates Stadium",
+      "manager": "Mikel Arteta",
+      "song": "And it's Arsenal,\nArsenal FC,\nWe're by far the greatest team,\nThe world has ever seen."
+    },
+    {
+      "id": 6,
+      "name": "Tottenham Hotspur",
+      "city": "London",
+      "stadium": "Tottenham Hotspur Stadium",
+      "manager": "Nuno Espirito Santo",
+      "song": "Oh, when the Spurs go marching in,\nOh, when the Spurs go marching in,\nI wanna be in that number,\nOh, when the Spurs go marching in."
+    },
+    {
+      "id": 7,
+      "name": "Leicester City",
+      "city": "Leicester",
+      "stadium": "King Power Stadium",
+      "manager": "Brendan Rodgers",
+      "song": "When you're smiling, when you're smiling,\nThe whole world smiles with you,\nWhen you're laughing, when you're laughing,\nThe sun comes shining through."
+    },
+    {
+      "id": 8,
+      "name": "West Ham United",
+      "city": "London",
+      "stadium": "London Stadium",
+      "manager": "David Moyes",
+      "song": "I'm forever blowing bubbles,\nPretty bubbles in the air,\nThey fly so high, nearly reach the sky,\nThen like my dreams, they fade and die."
+    },
+    {
+      "id": 9,
+      "name": "Everton",
+      "city": "Liverpool",
+      "stadium": "Goodison Park",
+      "manager": "Rafael Benitez",
+      "song": "It's a grand old team to play for,\nIt's a grand old team to see,\nAnd if you know your history,\nIt's enough to make your heart go, ohh!"
+    },
+    {
+      "id": 10,
+      "name": "Leeds United",
+      "city": "Leeds",
+      "stadium": "Elland Road",
+      "manager": "Marcelo Bielsa",
+      "song": "Marching on Together,\nWe're gonna see you win,\nWe are so proud,\nWe shout it out loud,\nWe love you, Leeds, Leeds, Leeds!"
+    },
+    {
+      "id": 11,
+      "name": "Aston Villa",
+      "city": "Birmingham",
+      "stadium": "Villa Park",
+      "manager": "Dean Smith",
+      "song": "Holte Enders in the sky,\nWe'll keep the Villa flag flying high,\nFrom the North Bank down to the Trinity,\nWe love you, Aston Villa, we do!"
+    },
+    {
+      "id": 12,
+      "name": "Newcastle United",
+      "city": "Newcastle upon Tyne",
+      "stadium": "St. James' Park",
+      "manager": "Steve Bruce",
+      "song": "Oh, we're the famous Newcastle United,\nAnd we're going to Wembley,\nWe'll be there, we'll be there,\nWe'll be there in our black and white,\nWe'll be there, we'll be there,\nWe'll be there in our black and white!"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "genre": "Rock",
+      "duration": "6:07",
+      "description": "A legendary rock anthem by Queen, known for its operatic elements and epic structure."
+    },
+    {
+      "id": 2,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "genre": "Rock",
+      "duration": "6:30",
+      "description": "An iconic rock song by the Eagles, featuring intricate guitar work and a captivating story."
+    },
+    {
+      "id": 3,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "genre": "Pop",
+      "duration": "3:53",
+      "description": "A popular pop track by Ed Sheeran, known for its catchy melody and romantic lyrics."
+    },
+    {
+      "id": 4,
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "album": "I Am",
+      "genre": "Disco",
+      "duration": "4:48",
+      "description": "A disco classic by Earth, Wind & Fire, featuring energetic grooves and infectious rhythm."
+    },
+    {
+      "id": 5,
+      "title": "Smooth",
+      "artist": "Santana feat. Rob Thomas",
+      "album": "Supernatural",
+      "genre": "Rock",
+      "duration": "4:56",
+      "description": "A collaboration between Santana and Rob Thomas, fusing rock and Latin influences into a smooth, catchy tune."
+    },
+    {
+      "id": 6,
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "album": "21",
+      "genre": "Pop",
+      "duration": "3:48",
+      "description": "A soulful pop ballad by Adele, known for its powerful vocals and emotional depth."
+    },
+    {
+      "id": 7,
+      "title": "Sweet Child o' Mine",
+      "artist": "Guns N' Roses",
+      "album": "Appetite for Destruction",
+      "genre": "Rock",
+      "duration": "5:56",
+      "description": "An iconic rock anthem by Guns N' Roses, featuring a memorable guitar riff and soaring vocals."
+    },
+    {
+      "id": 8,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "genre": "Pop",
+      "duration": "4:54",
+      "description": "A signature song by Michael Jackson, known for its infectious beat and captivating dance moves."
+    },
+    {
+      "id": 9,
+      "title": "Boys Don't Cry",
+      "artist": "The Cure",
+      "album": "Boys Don't Cry",
+      "genre": "Alternative",
+      "duration": "2:37",
+      "description": "A classic alternative rock track by The Cure, expressing vulnerability and raw emotions."
+    },
+    {
+      "id": 10,
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "genre": "Rock",
+      "duration": "8:02",
+      "description": "An epic rock ballad by Led Zeppelin, known for its intricate guitar work and mystical lyrics."
+    },
+    {
+      "id": 11,
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "album": "Hey Jude",
+      "genre": "Rock",
+      "duration": "7:11",
+      "description": "A timeless rock anthem by The Beatles, featuring sing-along choruses and uplifting messages."
+    },
+    {
+      "id": 12,
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "album": "Views",
+      "genre": "Hip-Hop",
+      "duration": "4:27",
+      "description": "A popular hip-hop track by Drake, known for its catchy melodies and memorable dance moves."
+    },
+    {
+      "id": 13,
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "album": "Purple Rain",
+      "genre": "Pop",
+      "duration": "8:41",
+      "description": "An iconic pop ballad by Prince, showcasing his unique blend of rock, pop, and R&B."
+    },
+    {
+      "id": 14,
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "album": "Imagine",
+      "genre": "Pop",
+      "duration": "3:03",
+      "description": "A heartfelt anthem by John Lennon, inspiring listeners to envision a world of peace and harmony."
+    },
+    {
+      "id": 15,
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "genre": "Grunge",
+      "duration": "5:01",
+      "description": "A defining grunge rock track by Nirvana, capturing the angst and disillusionment of a generation."
+    }
+  ]
+}

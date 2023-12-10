@@ -1,0 +1,185 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "Jerusalema",
+        "artist": "Master KG ft. Nomcebo Zikode",
+        "genre": "Afro House",
+        "year": 2019,
+        "description": "Jerusalema is a catchy and uplifting song that gained worldwide popularity with its infectious dance moves. It celebrates the city of Jerusalem and has become an anthem for joy and unity.",
+        "country": "South Africa"
+      },
+      {
+        "id": 2,
+        "title": "Soco",
+        "artist": "Starboy ft. Wizkid, Terri, Spotless, Ceeza Milli",
+        "genre": "Afrobeats",
+        "year": 2018,
+        "description": "Soco is a high-energy Afrobeats track by Starboy and features several talented artists. The song became a massive hit across Africa and beyond, showcasing the vibrant sound of Nigerian music.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 3,
+        "title": "Johnny",
+        "artist": "Yemi Alade",
+        "genre": "Afrobeats",
+        "year": 2013,
+        "description": "Johnny is a powerful Afrobeats song by Yemi Alade that addresses the issue of infidelity. It became a chart-topping hit and propelled Yemi Alade to international fame.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 4,
+        "title": "Nara",
+        "artist": "Tim Godfrey ft. Travis Greene",
+        "genre": "Gospel",
+        "year": 2018,
+        "description": "Nara is a soul-stirring gospel song that combines the talents of Tim Godfrey and Travis Greene. The song became a worship anthem and resonated with audiences across Africa.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 5,
+        "title": "Joromi",
+        "artist": "Simi",
+        "genre": "Afro Pop",
+        "year": 2017,
+        "description": "Joromi is a sweet and melodic Afro Pop song by Simi. It showcases Simi's beautiful vocals and lyrical prowess, making it a fan favorite.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 6,
+        "title": "Khona",
+        "artist": "Mafikizolo ft. Uhuru",
+        "genre": "Kwaito",
+        "year": 2013,
+        "description": "Khona is a popular Kwaito song by South African duo Mafikizolo featuring Uhuru. It became a dancefloor sensation with its infectious beats and catchy lyrics.",
+        "country": "South Africa"
+      },
+      {
+        "id": 7,
+        "title": "Collabo",
+        "artist": "P-Square ft. Don Jazzy",
+        "genre": "Afrobeats",
+        "year": 2014,
+        "description": "Collabo is a collaboration between Nigerian music duo P-Square and producer Don Jazzy. The song showcases their distinct style and infectious rhythm.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 8,
+        "title": "Aye",
+        "artist": "Davido",
+        "genre": "Afrobeats",
+        "year": 2014,
+        "description": "Aye is a groovy Afrobeats track by Davido. The song celebrates love and became an instant hit, solidifying Davido's position as one of Africa's top artists.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 9,
+        "title": "Khona",
+        "artist": "Mafikizolo ft. Uhuru",
+        "genre": "Kwaito",
+        "year": 2013,
+        "description": "Khona is a popular Kwaito song by South African duo Mafikizolo featuring Uhuru. It became a dancefloor sensation with its infectious beats and catchy lyrics.",
+        "country": "South Africa"
+      },
+      {
+        "id": 10,
+        "title": "Ginger",
+        "artist": "Burna Boy ft. Wizkid",
+        "genre": "Afrobeats",
+        "year": 2020,
+        "description": "Ginger is a collaboration between two Nigerian heavyweights, Burna Boy and Wizkid. The song blends their unique styles and showcases their musical chemistry.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 11,
+        "title": "Nwa Baby",
+        "artist": "Davido",
+        "genre": "Afrobeats",
+        "year": 2018,
+        "description": "Nwa Baby is an energetic Afrobeats track by Davido. The song's infectious rhythm and captivating lyrics made it a favorite among fans.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 12,
+        "title": "Nakupenda",
+        "artist": "Diamond Platnumz ft. Iyanya",
+        "genre": "Bongo Flava",
+        "year": 2016,
+        "description": "Nakupenda is a popular Bongo Flava song by Tanzanian artist Diamond Platnumz featuring Iyanya. The song showcases the East African sound and became a hit across the continent.",
+        "country": "Tanzania"
+      },
+      {
+        "id": 13,
+        "title": "Nfana Ibaga (No Problem)",
+        "artist": "2face Idibia",
+        "genre": "Afrobeats",
+        "year": 2004,
+        "description": "Nfana Ibaga, also known as No Problem, is a classic Afrobeats song by Nigerian legend 2face Idibia. The song remains a favorite among fans and represents the golden era of Nigerian music.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 14,
+        "title": "Jailer",
+        "artist": "Asa",
+        "genre": "Neo-Soul",
+        "year": 2007,
+        "description": "Jailer is a soulful Neo-Soul song by Nigerian-French singer Asa. The song's powerful lyrics and emotive vocals resonate with listeners, addressing themes of social justice and freedom.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 15,
+        "title": "Shoki",
+        "artist": "Lil Kesh",
+        "genre": "Afrobeats",
+        "year": 2014,
+        "description": "Shoki is an energetic Afrobeats track by Nigerian artist Lil Kesh. The song popularized the Shoki dance and became a street anthem.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 16,
+        "title": "Khumbaya",
+        "artist": "Soweto Gospel Choir",
+        "genre": "Gospel",
+        "year": 2005,
+        "description": "Khumbaya is a beautiful gospel song performed by the renowned Soweto Gospel Choir. The song carries a message of hope, unity, and spiritual strength.",
+        "country": "South Africa"
+      },
+      {
+        "id": 17,
+        "title": "Skelewu",
+        "artist": "Davido",
+        "genre": "Afrobeats",
+        "year": 2013,
+        "description": "Skelewu is an infectious Afrobeats track by Davido. The song's catchy chorus and dance moves made it a sensation and a favorite at parties and clubs.",
+        "country": "Nigeria"
+      },
+      {
+        "id": 18,
+        "title": "Johnny Clegg",
+        "artist": "Scatterlings of Africa",
+        "genre": "World",
+        "year": 1982,
+        "description": "Johnny Clegg's Scatterlings of Africa is a vibrant and uplifting song that blends traditional African rhythms with modern pop influences. The song celebrates the rich cultural heritage of Africa.",
+        "country": "South Africa"
+      },
+      {
+        "id": 19,
+        "title": "Africa",
+        "artist": "Toto",
+        "genre": "Rock",
+        "year": 1982,
+        "description": "Africa by Toto is a timeless rock classic that has become an anthem for Africa. Its iconic melody and heartfelt lyrics continue to resonate with people around the world.",
+        "country": "United States"
+      },
+      {
+        "id": 20,
+        "title": "Jerusalema Remix",
+        "artist": "Master KG ft. Burna Boy, Nomcebo Zikode",
+        "genre": "Afro House",
+        "year": 2020,
+        "description": "Jerusalema Remix is a collaboration between Master KG, Burna Boy, and Nomcebo Zikode. The remix amplifies the original song's popularity and brings together African musical talents.",
+        "country": "South Africa"
+      }
+    ]
+  }
+  
